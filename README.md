@@ -7,8 +7,8 @@ TODO: The source code and dataset will be released soon.
 
 We collect three high-quality datasets with fine-grained annotations, you can download through the following link:
 
- - SD1 [Google Drive](https://drive.google.com/file/d/1xpb7TbUC5JOSUhtOWdKmr2hG-VJLMIC3/view?usp=drivesdk)(Size=10.4G)
- - SD2 [Google Drive](https://drive.google.com/file/d/1AIsO7HvQMc4DaNU_XE0rKhBjGB3hoLOp/view?usp=sharing)(Size=12.3G)
+ - SD1(Size=10.4G) [Google Drive](https://drive.google.com/file/d/1xpb7TbUC5JOSUhtOWdKmr2hG-VJLMIC3/view?usp=drivesdk), [Baidu Pan](https://pan.baidu.com/s/1VVGpNkZ1A84foLaPoZ9pAQ)(password:8rqp)
+ - SD2(Size=12.3G) [Google Drive](https://drive.google.com/file/d/1AIsO7HvQMc4DaNU_XE0rKhBjGB3hoLOp/view?usp=sharing), [Baidu Pan](https://pan.baidu.com/s/1e2JnA7ICHGM-i3zY96SK3Q)(password:q3mz)
 
 # Citation
 
