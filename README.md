@@ -1,7 +1,6 @@
 # TASHR
 Text-Aware Single Image Specular Highlight Removal
 
-TODO: The source code and dataset will be released soon.
 
 # Dataset
 
